@@ -1,0 +1,1 @@
+# symmetric-3spin-systems
